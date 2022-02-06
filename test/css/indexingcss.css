@@ -1,0 +1,11 @@
+  
+body{
+    color: whitesmoke;
+    background-image: url('d33.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    margin-top:130px ;
+    text-align: center;
+}

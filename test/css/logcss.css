@@ -1,0 +1,43 @@
+form{
+    text-align: center;
+  
+   
+}
+div.fps{
+    position:sticky;
+    text-align: center;
+
+}
+input{
+    background: transparent;
+    padding: 10px;
+     width: 200px;
+     border-radius: 30px;
+     margin-top: 20px;
+     color:gray;
+ 
+}
+body{
+    background-image: url('d33.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+button{
+    background: transparent;
+    color: gray;
+    margin-top: 40px;
+}
+h2{
+    color: whitesmoke;
+}
+input:hover,button:hover{
+    background-color: rgb(243, 239, 231) ;
+}
+
+a{
+    color: cadetblue;
+}
+#nxtp{
+    color: whitesmoke;
+}
